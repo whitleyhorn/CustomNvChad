@@ -1,0 +1,12 @@
+{
+  "name": "my-vim-snippets",
+  "contributes": {
+    "snippets": [
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/javascript/react-ts.json"
+      }
+    ]
+  }
+}
+
